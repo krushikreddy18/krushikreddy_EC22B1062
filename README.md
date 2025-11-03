@@ -38,6 +38,12 @@ This project performs pair-trading analysis between two symbols (default: `BTCUS
 
 └── README.md # Project documentation
 
+└── architecture.drawio and architecture.svg  # Architecture Diagram
+
+└── ChatGPT Usage Transparency .pdf  # How AI is used int his project 
+
+└── quant_assignment.mp4  # demo video
+
 ## ⚙️ Installation & Setup
 
 🥇 1️⃣ Clone the Repository
