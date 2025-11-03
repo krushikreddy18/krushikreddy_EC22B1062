@@ -24,7 +24,7 @@ This project performs pair-trading analysis between two symbols (default: `BTCUS
 
 ## 🗂️ Project Structure
 
-📁 quant_analytics_dashboard/
+📁krushikreddy_EC22B1062-main/
 
 ├── app.py # Streamlit frontend dashboard
 
@@ -41,7 +41,9 @@ This project performs pair-trading analysis between two symbols (default: `BTCUS
 ## ⚙️ Installation & Setup
 
 🥇 1️⃣ Clone the Repository
+
 git clone https://github.com/krushikreddy18/krushikreddy_EC22B1062.git
+
 cd krushikreddy_EC22B1062
 
 🧱 2️⃣ Create a Virtual Environment
