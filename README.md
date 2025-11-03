@@ -42,34 +42,34 @@ This project performs pair-trading analysis between two symbols (default: `BTCUS
 
 🥇 1️⃣ Clone the Repository
 
-git clone https://github.com/krushikreddy18/krushikreddy_EC22B1062.git
+    git clone https://github.com/krushikreddy18/krushikreddy_EC22B1062.git
 
-cd krushikreddy_EC22B1062
+    cd krushikreddy_EC22B1062
 
 🧱 2️⃣ Create a Virtual Environment
 
-python -m venv venv
+    python -m venv venv
 
 ⚙️ 3️⃣ Activate It
 
-On Windows:
+ On Windows:
 
-venv\Scripts\activate
+    venv\Scripts\activate
 
-On macOS/Linux:
+ On macOS/Linux:
 
-source venv/bin/activate
+    source venv/bin/activate
 
 
 📦 4️⃣ Install Dependencies
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 🚀 5️⃣ Run the App
 
 Option 1 – Single Command (Recommended):
 
-python run_all.py
+    python run_all.py
 
 This launches both the data ingestion and the Streamlit dashboard together automatically.
 
@@ -77,15 +77,15 @@ Option 2 — Manual Two-Terminal Mode
 
 Terminal 1:
 
-python data_ingestor.py
+    python data_ingestor.py
 
 Terminal 2:
 
-streamlit run app.py
+    streamlit run app.py
 
 After a few seconds, the dashboard will be live at:
 
-http://localhost:8501
+    http://localhost:8501
 
 
 Methodology & Analytics Explanation
@@ -93,9 +93,9 @@ Methodology & Analytics Explanation
 
  Connects to Binance public WebSocket endpoints:
  
-   wss://stream.binance.com:9443/ws/btcusdt@trade
+    wss://stream.binance.com:9443/ws/btcusdt@trade
    
-   wss://stream.binance.com:9443/ws/ethusdt@trade
+    wss://stream.binance.com:9443/ws/ethusdt@trade
    
    Each tick (price + size + timestamp) is inserted into ticks.db.
 
