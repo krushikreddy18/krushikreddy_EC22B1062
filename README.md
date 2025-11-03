@@ -27,10 +27,15 @@ This project performs pair-trading analysis between two symbols (default: `BTCUS
 📁 quant_analytics_dashboard/
 
 ├── app.py # Streamlit frontend dashboard
+
 ├── data_ingestor.py # Binance WebSocket data ingestion
+
 ├── analytics_engine.py # Analytics computation module 
+
 ├── run_all.py # Combined launcher (one-command start)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ## ⚙️ Installation & Setup
