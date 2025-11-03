@@ -47,6 +47,7 @@ git clone https://github.com/krushikreddy18/krushikreddy_EC22B1062.git
 cd krushikreddy_EC22B1062
 
 🧱 2️⃣ Create a Virtual Environment
+
 python -m venv venv
 
 ⚙️ 3️⃣ Activate It
@@ -59,24 +60,31 @@ On macOS/Linux:
 
 source venv/bin/activate
 
+
 📦 4️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 🚀 5️⃣ Run the App
 
 Option 1 – Single Command (Recommended):
+
 python run_all.py
+
 This launches both the data ingestion and the Streamlit dashboard together automatically.
 
 Option 2 — Manual Two-Terminal Mode
 
 Terminal 1:
+
 python data_ingestor.py
 
 Terminal 2:
+
 streamlit run app.py
 
 After a few seconds, the dashboard will be live at:
+
 http://localhost:8501
 
 
@@ -84,13 +92,17 @@ Methodology & Analytics Explanation
 1️⃣ Data Ingestion
 
  Connects to Binance public WebSocket endpoints:
+ 
    wss://stream.binance.com:9443/ws/btcusdt@trade
+   
    wss://stream.binance.com:9443/ws/ethusdt@trade
+   
    Each tick (price + size + timestamp) is inserted into ticks.db.
 
 2️⃣ Data Resampling
 
  The dashboard resamples tick data into fixed time intervals (1s, 1min, 5min) using:
+ 
     df.set_index("ts").resample(timeframe).agg({"price": "last", "size": "sum"})
     
  3️⃣ **Analytics Computations**
@@ -119,14 +131,20 @@ When |Z-score| > threshold (default = 2.0), an alert is triggered with direction
 5️⃣ Visualizations
 
 Dual-axis Price Comparison Chart
+
 Spread & Z-Score Plot
+
 Rolling Correlation Chart
+
 Alert Log Table
+
 Download Analytics as .csv
+
 
 ⏱️ Timezone Support
 
 All timestamps are localized to Indian Standard Time (IST) for readability:
+
 pd.Timestamp.now(tz="Asia/Kolkata")
 
 📦 Dependencies
@@ -134,11 +152,17 @@ pd.Timestamp.now(tz="Asia/Kolkata")
 Main libraries used:
 
 streamlit
+
 plotly
+
 pandas
+
 numpy
+
 statsmodels
+
 websockets
+
 sqlite3 (standard library)
 
 Full list in requirements.txt.
