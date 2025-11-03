@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="j5O7hY7X1pBGEJMhYMKe">
+    <mxGraphModel dx="1815" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g3L8n-RUss0eUvpn3_En-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="282.5" y="820" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-20" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-21">
+          <mxGeometry y="28.4375" width="260" height="73.125" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-11" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; text-align: justify;&quot;&gt;Streamlit Frontend&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;-Live Charts&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Alerts &amp;amp; History&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;-CSV Download&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-21">
+          <mxGeometry x="15.600000000000001" width="228.8" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="285" y="640" width="255" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-22">
+          <mxGeometry x="5" y="15" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Analytics Engine&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&lt;/span&gt;&lt;font size=&quot;3&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hedge Ratio&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Spread &amp;amp; Z-score&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Correlation&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-22">
+          <mxGeometry width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="480" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-23">
+          <mxGeometry y="5" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;SQLite Database (ticks.db)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;- Persistent tick storage&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-23">
+          <mxGeometry x="10" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="280" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-26">
+          <mxGeometry width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Ingestor (Python)&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;-Receives live trades&lt;br&gt;-normalizes &amp;amp; stores&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-26">
+          <mxGeometry x="22.5" y="5" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="70" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-27">
+          <mxGeometry width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Binace WebSocket (API)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-27">
+          <mxGeometry x="40" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=light-dark(transparent,#FFFFFF);" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.41" y="170" as="sourcePoint" />
+            <mxPoint x="414.41" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-43" value="&lt;font size=&quot;3&quot;&gt;Live prices &amp;amp;Volume data&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="g3L8n-RUss0eUvpn3_En-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=light-dark(transparent,#FFFFFF);" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.41" y="370" as="sourcePoint" />
+            <mxPoint x="414.41" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-45" value="&lt;font size=&quot;3&quot;&gt;Ticks Inserts&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="g3L8n-RUss0eUvpn3_En-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-46" value="" style="endArrow=classic;html=1;rounded=0;shape=flexArrow;fillColor=light-dark(transparent,#FFFFFF);" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.40999999999997" y="580" as="sourcePoint" />
+            <mxPoint x="414.40999999999997" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-47" value="&lt;font size=&quot;3&quot;&gt;Query Latest Records&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="g3L8n-RUss0eUvpn3_En-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-48" value="" style="endArrow=classic;html=1;rounded=0;shape=flexArrow;fillColor=light-dark(transparent,#FFFFFF);" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="760" as="sourcePoint" />
+            <mxPoint x="350" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-49" value="&lt;font size=&quot;3&quot;&gt;Alerts&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="g3L8n-RUss0eUvpn3_En-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-50" value="" style="endArrow=classic;html=1;rounded=0;shape=flexArrow;fillColor=light-dark(transparent,#FFFFFF);" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="760" as="sourcePoint" />
+            <mxPoint x="490" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-51" value="&lt;font size=&quot;3&quot;&gt;Analytics&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="g3L8n-RUss0eUvpn3_En-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="365" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-57">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-53" value="User Interaction" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="g3L8n-RUss0eUvpn3_En-57">
+          <mxGeometry x="6.25" y="10" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g3L8n-RUss0eUvpn3_En-52" value="" style="endArrow=classic;html=1;rounded=0;shape=flexArrow;width=14;endSize=4.785;shadow=1;fillColor=light-dark(transparent,#FFFFFF);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="929.37" as="sourcePoint" />
+            <mxPoint x="424.0032" y="999.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
