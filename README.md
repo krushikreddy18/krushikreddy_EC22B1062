@@ -166,3 +166,10 @@ websockets
 sqlite3 (standard library)
 
 Full list in requirements.txt.
+
+
+🎥 Demo Video
+
+You can watch a short demo of the project here:
+
+👉 quant_assignment.mp4
